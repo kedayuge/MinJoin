@@ -32,4 +32,4 @@ ACGTTTTTTTATTTATAGGGTTGGC
 ...
 
 Data download:
-https://iu.box.com/s/x7hg7uxj7xmmcdvc62k7iux9txtt9doi
+https://indiana-my.sharepoint.com/:f:/g/personal/hz30_iu_edu/EnlnpMqC6K1BooxeFc-zzIMBX0UtB63bGZ7Z2Revtb_rqQ?e=IRK1ms
